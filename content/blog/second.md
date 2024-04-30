@@ -5,6 +5,8 @@ head:
   meta:
     - name: 'og:image'
       content: /images/vue-logo.jpg
+publishedAt: 2022-07-12 17:15:00
+toc: true
 ---
 # Introduction to Vue 3
 
