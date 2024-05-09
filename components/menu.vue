@@ -1,14 +1,14 @@
 <template>
-    <nav class="font-mono">
-        <ul class="flex flex-col md:flex-row md:space-x-4">
+    <nav class="font-mono px-2">
+        <ul class="flex md:space-x-8 gap-2">
             <li>
-                <NuxtLink to="/" class="link">Main</NuxtLink>
+                <NuxtLink to="/" class="link">Home</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/about" class="link">About</NuxtLink>
+                <NuxtLink to="/about" class="link">Sobre</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/projects" class="link">Projects</NuxtLink>
+                <NuxtLink to="/projects" class="link">Projetos</NuxtLink>
             </li>
             <li>
                 <NuxtLink to="/blog" class="link">Blog</NuxtLink>
@@ -19,7 +19,7 @@
 
 <style scoped>
 .link{
-    @apply p-1 hover:bg-gray-100 dark:hover:bg-gray-800 text-2xl md:text-base
+    @apply p-1 border-b-2 hover:border-b-gray-800 dark:hover:border-b-gray-800 text-lg  md:text-base
 }
 
 </style>
