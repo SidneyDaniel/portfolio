@@ -1,29 +1,39 @@
 ---
 description: 'meta description of the page'
 --- 
-# Hello There, I'm Piotr
+<!-- # Olá, eu sou Sidney 
 
 ## About me
 
-I'm Piotr, I'm a developer and a Udemy Instructor. I'm 36, living in southern Poland with my wife and 2  golden retrievers. I'm vegan and pro-animal 🥑.
+![Vue 3 Introduction](https://avatars.githubusercontent.com/u/102486000?v=4)
 
-## What I teach on Udemy
+Olá, meu nome é Sidney Daniel e tenho 22 anos. Sou brasileiro e aspirante a desenvolvedor Front-End me formando em ADS na Uninter.
 
-I teach mostly web development and I have courses on:
+## Quais são minhas stacks ?💻
 
-- Laravel (PHP framework)
-- Laravel & Vue & Inertia (PHP framework/JavaScript frontend framework)
-- Symfony (PHP framework)
-- NestJS (Node.js framework)
-- Nuxt 3 (JavaScript Full-stack framework)
+- HTML5 
+- JavaScript 
+- Vue.js 
+- NodeJS 
+- Firebase 
+- CSS3 
+- TypeScript 
+- Git 
+- NPM
 
-## What software/hardware do I use?
+## 📘 O que eu estou estudando:
+- Nuxtjs 
+- Sequelize 
+- SQLite 
+- MongoDB 
+- TailwindCSS
 
-Here's a list of everyday used software and hardware:
+## Quais softwares eu uso ?
 
-- MacBook Pro 16 2021
-- Rode NT USB microphone
 - VSCode
-- Chrome
-- ScreenFlow (Mac only)
-- Docker
+- Edge DevTools
+- Canva
+- Trello
+- Postman -->
+
+::about-me

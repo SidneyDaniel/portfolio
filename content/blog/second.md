@@ -10,7 +10,10 @@ toc: true
 ---
 # Introduction to Vue 3
 
-![Vue 3 Introduction](/images/vue-logo.jpg)
+<!-- ![Vue 3 Introduction](/images/vue-logo.jpg) -->
+<!-- ![Vue 3 Introduction](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg) -->
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg' height="40" alt="vue logo">
 
 ## What is Vue 3?
 

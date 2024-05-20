@@ -18,6 +18,10 @@
   opacity: 0.5;
   filter: grayscale(1) brightness(0.5);
 }
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
 </style>
 
 

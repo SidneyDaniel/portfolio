@@ -1,5 +1,5 @@
-# Projects 
+# Projetos
 
-Check out some of my recent projects on GitHub!!!
+Dê uma olhada nos meus projetos logo a baixo 😊
 
 ::project-list
